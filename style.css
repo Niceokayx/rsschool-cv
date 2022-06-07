@@ -1,0 +1,19 @@
+﻿
+figure img {
+width:170px;
+hight:170px;
+float: left;
+position:absolute;
+left:0;
+
+}
+.inf {
+ margin-left: 200px;
+font-family: Arial, Verdana,sans-serif;
+font-style: italic;
+}
+
+.text{
+font-family: Arial, Verdana,sans-serif;
+font-style: italic;
+}
